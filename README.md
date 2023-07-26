@@ -19,13 +19,13 @@ Our website is built using HTML, CSS, and JavaScript, while the server-side is p
 
 <li>User-friendly Interface**: We have designed our website to be intuitive and easy to navigate, ensuring a delightful shopping experience.</li>
 
-<li>Secure Checkout**: Your security is our top priority. We utilize encryption and security measures to protect your personal and payment information.</li>
+<li>Secure Checkout: Your security is our top priority. We utilize encryption and security measures to protect your personal and payment information.</li>
 
-<li>Account Management**: Create and manage your account to track orders, save your preferences, and access exclusive deals.</li>
+<li>Account Management: Create and manage your account to track orders, save your preferences, and access exclusive deals.</li>
 
-<li>Shopping Cart**: Add products to your cart, review them before checkout, and proceed with a secure payment process.</li>
+<li>Shopping Cart: Add products to your cart, review them before checkout, and proceed with a secure payment process.</li>
 
-<li>Responsive Design**: OurStore is built with a responsive design, ensuring a seamless experience across various devices.</li>
+<li>Responsive Design: OurStore is built with a responsive design, ensuring a seamless experience across various devices.</li>
 </ul>
 
 
